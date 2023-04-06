@@ -50,7 +50,7 @@ p.card-description {
   gap: 30px;
 }
 
-.input-field > button {
+.input-field>button {
   min-width: 142px;
   height: 40px;
   background: #a8d7e6;
@@ -60,4 +60,14 @@ p.card-description {
 
 .label-radio {
   margin-right: 30px;
+}
+
+nav ul a {
+  color: #f3ebeb;
+}
+
+.active {
+  color: #ccd9db;
+  text-decoration: underline;
+  text-shadow: 3px -1px 3px #272826;
 }
